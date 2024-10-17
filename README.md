@@ -4,7 +4,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 Make sure you have [`Node.js`](https://nodejs.org/en/download/package-manager) installed.
 
-To run the app:
 Install the dependencies:
 
 ```bash
